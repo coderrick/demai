@@ -7,7 +7,7 @@
 }
 section {
   font-family: 'Open Sans', sans-serif;
-  height: 350px;
+  height: 100vh;
   position: relative;
   background-clip: fixed;
   background-repeat: no-repeat;
